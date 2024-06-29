@@ -1,5 +1,3 @@
-Certainly! I'd be happy to create a README.md file for the real-time face tracking script. Here's a comprehensive README that explains the project, its setup, usage, and other important details:
-
 ```markdown
 # Real-Time Face Tracking
 
